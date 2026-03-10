@@ -389,7 +389,7 @@ with left_col:
 
     if uploaded:
         image = Image.open(uploaded)
-        st.image(image, use_column_width=True,
+        st.image(image, use_container_width=True),
                  caption='Uploaded Image')
 
     st.markdown('<br>', unsafe_allow_html=True)
