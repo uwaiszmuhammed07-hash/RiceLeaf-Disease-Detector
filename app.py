@@ -389,9 +389,8 @@ with left_col:
 
     if uploaded:
         image = Image.open(uploaded)
-        st.image(image, use_container_width=True),
-                 caption='Uploaded Image')
-
+        st.image(image, use_container_width=True,
+         caption='Uploaded Image')
     st.markdown('<br>', unsafe_allow_html=True)
     st.markdown('<p class="section-title">🌿 Detectable Diseases</p>',
                 unsafe_allow_html=True)
