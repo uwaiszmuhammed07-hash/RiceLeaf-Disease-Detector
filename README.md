@@ -63,8 +63,8 @@ Rice is one of the most important food crops in the world. Disease in rice leave
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/Shihadkp/riceguard-ai.git
-cd riceguard-ai
+git clone https://github.com/uwaiszmuhammed07-hash/RiceLeaf-Disease-Detector
+cd RiceLeaf-Disease-Detector
 ```
 
 ### Step 2 — Create Virtual Environment
