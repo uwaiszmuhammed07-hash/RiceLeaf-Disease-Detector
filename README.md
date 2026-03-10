@@ -163,10 +163,11 @@ matplotlib
 
 ## 👨‍💻 Author
 
-**Muhammed Shihad**
+**👨‍💻 Author
+Uwais Mohammed
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shihadkp-black?logo=github)](https://github.com/Shihadkp)
-
+GitHub**
+[![GitHub](https://img.shields.io/badge/GitHub-uwaiszmuhammed07--hash-black?logo=github)](https://github.com/uwaiszmuhammed07-hash)
 ---
 
 **Project ID:** PRCP-1001 | **Model:** InceptionV3 | **Accuracy:** 94.44%
