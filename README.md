@@ -65,19 +65,19 @@ Rice is one of the most important food crops in the world. Disease in rice leave
 - **Version Control:** GitHub + Git LFS
 
 ---
-
 ## 🚀 How to Run Locally
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/uwaiszmuhammed07-hash/RiceLeaf-Disease-Detector
+git clone https://github.com/uwaiszmuhammed07-hash/RiceLeaf-Disease-Detector.git
 cd RiceLeaf-Disease-Detector
 ```
 
 ### Step 2 — Create Virtual Environment
 ```bash
-conda create -n riceguard python=3.10 -y
-conda activate riceguard
+python -m venv venv
+source venv/bin/activate        # macOS/Linux
+venv\Scripts\activate           # Windows
 ```
 
 ### Step 3 — Install Requirements
@@ -95,13 +95,12 @@ streamlit run app.py
 http://localhost:8501
 ```
 
----
 
-## 🌐 Live Demo
+``
 
-The app is deployed on Streamlit Cloud:
 
-👉 [Open RiceGuard AI](https://shihadkp-riceguard-ai-app.streamlit.app)
+
+
 
 ---
 
