@@ -1,8 +1,15 @@
 # 🌾 RiceGuard AI — Rice Leaf Disease Detection
 
-> An end-to-end deep learning project that detects rice leaf diseases from images using InceptionV3 Transfer Learning, deployed as a live web application.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/Accuracy-98.5%25-brightgreen?style=for-the-badge"/>
+</p>
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://riceguard-ai-l5qwxixmavk5h8pcffz9g2.streamlit.app/)
+<p align="center">
+  An AI-powered web application that detects rice leaf diseases from images using deep learning with up to 98.5% confidence.
+</p>
 
 ---
 
