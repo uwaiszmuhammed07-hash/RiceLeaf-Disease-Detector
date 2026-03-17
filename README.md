@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit"/>
-  <img src="https://img.shields.io/badge/Accuracy-98.5%25-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accuracy-94.5%25-brightgreen?style=for-the-badge"/>
 </p>
 
 <p align="center">
